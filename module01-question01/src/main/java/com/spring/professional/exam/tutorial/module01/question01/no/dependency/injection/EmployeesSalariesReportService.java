@@ -5,17 +5,10 @@ import com.spring.professional.exam.tutorial.module01.question01.commons.dao.Emp
 import com.spring.professional.exam.tutorial.module01.question01.commons.ds.Employee;
 import com.spring.professional.exam.tutorial.module01.question01.commons.ds.EmployeeSalary;
 import com.spring.professional.exam.tutorial.module01.question01.commons.report.PdfSalaryReport;
-import com.spring.professional.exam.tutorial.module01.question01.commons.report.SalaryReport;
 
 import java.util.List;
 
 class EmployeesSalariesReportService {
-    private final SalaryReport salaryReport;
-
-    public EmployeesSalariesReportService(SalaryReport salaryReport) {
-        this.salaryReport = salaryReport;
-    }
-
     void generateReport() {
         EmployeeDao employeeDao = new EmployeeDao();
         List<Employee> employees = employeeDao.findAll();
@@ -23,6 +16,7 @@ class EmployeesSalariesReportService {
         EmployeeSalaryCalculator employeeSalaryCalculator = new EmployeeSalaryCalculator();
         List<EmployeeSalary> employeeSalaries = employeeSalaryCalculator.calculateSalaries(employees);
 
-        salaryReport.writeReport(employeeSalaries);
+        PdfSalaryReport pdfSalaryReport = new PdfSalaryReport();
+        pdfSalaryReport.writeReport(employeeSalaries);
     }
 }
