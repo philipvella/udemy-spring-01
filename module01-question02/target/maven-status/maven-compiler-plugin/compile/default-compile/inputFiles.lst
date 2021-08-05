@@ -1,0 +1,14 @@
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/style/ItalicStyleRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/before/Runner.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/Renderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/style/DefaultFontStyleRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/color/FontColorRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/after/Runner.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/weight/DefaultFontWeightRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/color/RedColorRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/before/TextRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/weight/FontWeightRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/weight/BoldFontWeightRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/style/FontStyleRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/common/renderer/color/DefaultColorRenderer.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question02/src/main/java/com/spring/professional/exam/tutorial/module01/question02/after/TextRenderer.java

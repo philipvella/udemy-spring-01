@@ -1,0 +1,13 @@
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/writer/FileStoreFinancialReportWriter.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/service/SimpleFinancialReportService.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/dao/FileStoreFinancialDataDao.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/ds/FinancialReport.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/ds/FinancialMonthSummary.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/ds/FinancialQuarterSummary.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/ds/FinancialYearSummary.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/dao/DatabaseStoreFinancialDataDao.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/writer/FinancialReportWriter.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/writer/DatabaseStoreFinancialReportWriter.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/service/FinancialReportService.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/dao/FinancialDataDao.java
+/Users/vellap/work/spring-professional-exam/module01-examples/module01-question03/src/main/java/com/spring/professional/exam/tutorial/module01/question03/Runner.java
